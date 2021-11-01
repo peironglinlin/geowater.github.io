@@ -1,4 +1,4 @@
-## Welcome to GeoWater Research Group @ Peking University
+## GeoWater Research Group @ Peking University
 
 We study the geography of global inland waters, their responses to the climate change and human perturbations, as well as their feedback to the climate/human systems.
 
