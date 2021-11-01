@@ -11,9 +11,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 ```markdown
 Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+# GeoWater Group @ Peking University
+## We study the geography of global inland waters, their responses to the climate change and human perturbations, as well as their feedback to the climate/human systems.
+### We use high-resolution global hydrologic models, space observations, and data-driven methods.
 
 - Bulleted
 - List
